@@ -1,0 +1,70 @@
+/* TrendWear Auth Style */
+
+body {
+    background-color: #f8fafc; /* soft background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+.card-header {
+    background-color: #fff;
+    color: #3c2a56;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+    border-bottom: 2px solid #b6e533;
+}
+
+.form-label {
+    color: #3c2a56;
+    font-weight: 600;
+}
+
+.form-control {
+    border-radius: 8px;
+    border-color: #ccc;
+}
+
+.form-control:focus {
+    border-color: #b6e533;
+    box-shadow: 0 0 0 0.2rem rgba(182, 229, 51, 0.25);
+}
+
+.btn-primary {
+    background-color: #b6e533;
+    border-color: #b6e533;
+    color: #3c2a56;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 0.5rem 1.5rem;
+}
+
+.btn-primary:hover {
+    background-color: #a3ce2e;
+    border-color: #a3ce2e;
+    color: #fff;
+}
+
+.form-check-label {
+    color: #3c2a56;
+}
+
+a {
+    color: #3c2a56;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #b6e533;
+    text-decoration: none;
+}
+
+.invalid-feedback {
+    color: red;
+    font-size: 0.9rem;
+}

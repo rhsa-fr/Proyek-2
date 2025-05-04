@@ -3,7 +3,7 @@
         <div class="row row-content">
           <div class="col-md-6">
             <h1 class="logo-brand">Trend <span>Wear</span></h1>
-            <p>Lorem ipsum dolor sit amet</p>
+            <p>Los Pollos Hermanos</p>
           </div>
           <div class="col-md-3 mt-4 mt-sm-0">
             <h3 class="mb-3">Navigation</h3>
